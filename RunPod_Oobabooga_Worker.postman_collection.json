@@ -206,7 +206,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"input\": {\n    \"api\": {\n      \"method\": \"POST\",\n      \"endpoint\": \"/model\"\n    },\n    \"payload\": {\n      \"action\": \"load\",\n      \"model_name\": \"TheBloke_Pygmalion-13B-SuperHOT-8K-GPTQ\",\n      \"args\": {}\n    }\n  }\n}"
+					"raw": "{\n  \"input\": {\n    \"api\": {\n      \"method\": \"POST\",\n      \"endpoint\": \"/model\"\n    },\n    \"payload\": {\n      \"action\": \"load\",\n      \"model_name\": \"TheBloke_Nous-Hermes-13B-SuperHOT-8K-GPTQ\",\n      \"args\": {}\n    }\n  }\n}"
 				},
 				"url": {
 					"raw": "https://api.runpod.ai/v2/{{serverless_api_id}}/run",
@@ -539,7 +539,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"input\": {\n    \"api\": {\n      \"method\": \"POST\",\n      \"endpoint\": \"/model\"\n    },\n    \"payload\": {\n      \"action\": \"load\",\n      \"model_name\": \"TheBloke_Pygmalion-13B-SuperHOT-8K-GPTQ\",\n      \"args\": {}\n    }\n  }\n}"
+					"raw": "{\n  \"input\": {\n    \"api\": {\n      \"method\": \"POST\",\n      \"endpoint\": \"/model\"\n    },\n    \"payload\": {\n      \"action\": \"load\",\n      \"model_name\": \"TheBloke_Nous-Hermes-13B-SuperHOT-8K-GPTQ\",\n      \"args\": {}\n    }\n  }\n}"
 				},
 				"url": {
 					"raw": "https://api.runpod.ai/v2/{{serverless_api_id}}/runsync",

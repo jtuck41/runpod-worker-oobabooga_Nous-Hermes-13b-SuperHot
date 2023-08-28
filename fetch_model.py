@@ -32,7 +32,7 @@ while not success and retry_count < 10:
         run = subprocess.run(f'/usr/bin/wget --continue --progress=dot:giga "{model}"', shell=True, check=False)
         write = filename
     elif model_info(model).id == model:
-        # We've got an HF model, eg 'TheBloke/WizardLM-7B-Uncensored'
+        # We've got an HF model, eg 'Nous-Hermes-13B-SuperHOT-8K-GPTQ'
         print(f"Passed HF model: {model}", flush=True)
         model_folder = model.replace('/','_')
         run = subprocess.run(f'{SCRIPT_DIR}/download_model.py --threads 2 --output "{output_folder}/{model_folder}" "{args.model}"', shell=True, check=False)

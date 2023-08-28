@@ -34,7 +34,7 @@
     "executionTime": 329,
     "id": "sync-b2e9990f-5542-457f-a1ec-47cea56186b1",
     "output": {
-        "result": "TheBloke_Pygmalion-13B-SuperHOT-8K-GPTQ"
+        "result": "TheBloke_Nous-Hermes-13B-SuperHOT-8K-GPTQ"
     },
     "status": "COMPLETED"
 }

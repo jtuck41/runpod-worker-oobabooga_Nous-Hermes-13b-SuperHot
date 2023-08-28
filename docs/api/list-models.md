@@ -36,7 +36,7 @@
     "id": "sync-4b4a8565-0018-4802-a453-b336f9d332d7",
     "output": {
         "result": [
-            "TheBloke_Pygmalion-13B-SuperHOT-8K-GPTQ"
+            "TheBloke_Nous-Hermes-13B-SuperHOT-8K-GPTQ"
         ]
     },
     "status": "COMPLETED"

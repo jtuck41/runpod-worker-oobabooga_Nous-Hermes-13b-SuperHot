@@ -37,7 +37,7 @@
     "output": {
         "result": {
             "lora_names": [],
-            "model_name": "TheBloke_Pygmalion-13B-SuperHOT-8K-GPTQ",
+            "model_name": "TheBloke_Nous-Hermes-13B-SuperHOT-8K-GPTQ",
             "shared.args": {
                 "alpha_value": 1,
                 "api": true,
@@ -84,7 +84,7 @@
                 "low_vram": false,
                 "max_seq_len": 2048,
                 "mlock": false,
-                "model": "TheBloke_Pygmalion-13B-SuperHOT-8K-GPTQ",
+                "model": "TheBloke_Nous-Hermes-13B-SuperHOT-8K-GPTQ",
                 "model_dir": "models/",
                 "model_menu": false,
                 "model_type": null,

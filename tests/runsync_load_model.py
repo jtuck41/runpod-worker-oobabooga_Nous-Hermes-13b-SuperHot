@@ -16,7 +16,7 @@ if __name__ == '__main__':
             },
             "payload": {
                 "action": "load",
-                "model_name": "TheBloke_Pygmalion-13B-SuperHOT-8K-GPTQ",
+                "model_name": "TheBloke_Nous-Hermes-13B-SuperHOT-8K-GPTQ",
                 "args": {}
             }
         }
